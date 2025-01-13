@@ -1,2 +1,1 @@
-<script> window.chtlConfig = { chatbotId: "6863489634" , display: "fullscreen" } </script>
-<script async data-id="6863489634" id="chatling-embed-script" data-display="fullscreen" type="text/javascript" src="https://chatling.ai/js/embed.js"></script>
+
